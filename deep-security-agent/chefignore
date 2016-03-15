@@ -92,3 +92,10 @@ Vagrantfile
 # Travis #
 ##########
 .travis.yml
+
+# Additional files #
+###########
+.kitchen
+.kitchen.yml
+.kitchen.local.yml
+Thorfile
